@@ -1,0 +1,11 @@
+please install these libraries........
+
+pip install
+
+tensorflow
+keras
+matplotlib
+numpy
+pandas
+pillow
+sklearn
